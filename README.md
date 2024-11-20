@@ -19,3 +19,6 @@ El objetivo del trabajo es poder usar los datos de las especies de la amazonia p
 | Ayrton Jafet Samaniego Millan  | u202122788  |
 | Paula Jimena Mancilla Cienfuegos  | u20215844  |
 | Emily Mendoza Manrique  | u202122644  |
+
+## Conclusiones
+En conclusión, con el dataset de especies de amazonas se utilizó para este trabajo, se lograron encontrar diferentes comunidades en las cuales se puede apreciar cómo es que sus individuos comparten características. Asimismo, este modelo puede ser aplicado en la vida real para analizar cómo es que las especies en un ecosistema dependen entre sí. Además, se podría realizar más experimentos de cómo es que la introducción de diferentes especies pueden influir en las conexiones de otros animales y cómo afecta la detección de comunidades.
